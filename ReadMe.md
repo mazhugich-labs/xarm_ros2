@@ -60,6 +60,10 @@ For simplified Chinese version: [简体中文版](./ReadMe_cn.md)
 
 ## 4. How To Use
 
+For an isolated ROS 2 Jazzy environment, a complete Docker workflow is also
+available in [`docker/README.md`](docker/README.md). It includes scripts to
+build the image, start or re-enter a background container, and stop it.
+
 - ### 4.1 Create a workspace
     ```bash
     # Skip this step if you already have a target workspace
